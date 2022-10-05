@@ -25,4 +25,4 @@ Súbory na kurze od lektora
 7. [DBeaver](https://dbeaver.io/)
 
 Cesta, kde sú uložené SQL skripty DBeaver
-C:\Users\**User**\AppData\Roaming\DBeaverData\workspace6\General
+C:\Users\User\AppData\Roaming\DBeaverData\workspace6\General
