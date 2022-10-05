@@ -22,5 +22,7 @@ Súbory na kurze od lektora
 4. [phpMyAdmin Demo](https://demo.phpmyadmin.net/)  
 5. [Jetbrains Datalore](https://datalore.jetbrains.com)  
 6. [Skladač Fráz pre Google Ads/AdWords](http://kw.tre.sk/sk/step2)  
+7. [DBeaver](https://dbeaver.io/)
 
-
+Cesta, kde sú uložené SQL skripty DBeaver
+C:\Users\**User**\AppData\Roaming\DBeaverData\workspace6\General
