@@ -1,0 +1,48 @@
+Analyze dataset
+CSV Lint: v0.4.5.4
+File: World_202210040948.csv
+Date: 04-okt-2022 09:59
+
+Data records: 1 (+1 header line)
+Max.unique values: 15
+
+----------------------------------------
+1: sum(population)
+DataTypes      : integer (1 = 100,0%)
+Width range    : 10 characters
+Integer range  :  ~ 
+-- Unique values (1) --
+n=1            : 7118632738
+
+----------------------------------------
+2: avg(population)
+DataTypes      : decimal (1 = 100,0%)
+Width range    : 13 characters
+Decimal range  :  ~ 
+-- Unique values (1) --
+n=1            : 36505808.9128
+
+----------------------------------------
+3: max(population)
+DataTypes      : integer (1 = 100,0%)
+Width range    : 10 characters
+Integer range  : 1365370000 ~ 1365370000
+-- Unique values (1) --
+n=1            : 1365370000
+
+----------------------------------------
+4: min(population)
+DataTypes      : integer (1 = 100,0%)
+Width range    : 3 characters
+Integer range  : 839 ~ 839
+-- Unique values (1) --
+n=1            : 839
+
+----------------------------------------
+5: count(population)
+DataTypes      : integer (1 = 100,0%)
+Width range    : 3 characters
+Integer range  : 195 ~ 195
+-- Unique values (1) --
+n=1            : 195
+
